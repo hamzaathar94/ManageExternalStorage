@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Manage External Storage</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
+    <string name="copy">Copy</string>
+    <string name="pdf_icon">Pdf</string>
+</resources>
